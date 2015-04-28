@@ -4,7 +4,7 @@
 # or Nuget
 # https://www.nuget.org/packages/XMLDiffPatch/
 
-# Load the DLL
+# Load the external DLL
 Add-Type -Path "C:\Program Files (x86)\XmlDiffPatch\Bin\xmldiffpatch.dll"
 
 $xmlD1=[XML](Get-Content 'd:\temp\M1.xml')
