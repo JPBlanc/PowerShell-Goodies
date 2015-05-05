@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<body>
+  <node1 attribute1="attr1">
+     <child1 attribute1="A">
+       <grandchild>
+       </grandchild>
+     </child1>
+     <child1 attribute1="B">
+       <grandchild>
+       </grandchild>
+     </child1>
+     <child1 attribute1="C">
+       <grandchild>
+       </grandchild>
+     </child1>	 
+  </node1>
+  <node2 attribute1="attr1">
+     <child1 attribute1="A">
+       <grandchild>
+       </grandchild>
+     </child1>
+     <child1 attribute1="B">
+       <grandchild>
+       </grandchild>
+     </child1>
+     <child1 attribute1="C">
+       <grandchild>
+       </grandchild>
+     </child1>	 
+  </node2>
+</body> 
